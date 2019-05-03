@@ -1,0 +1,2 @@
+test the site
+add 404 page
