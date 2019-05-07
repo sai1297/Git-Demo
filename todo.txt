@@ -1,2 +1,3 @@
 test the site
 add 404 page
+update page to be less generic
